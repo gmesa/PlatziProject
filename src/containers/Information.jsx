@@ -1,5 +1,5 @@
 import React, { useRef, useContext } from 'react';
-import '../Styles/information.css'
+import '../Styles/Information.css'
 import { Link, useNavigate } from 'react-router-dom'
 import AppContext from '../context/AppContext';
 
